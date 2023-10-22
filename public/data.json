@@ -1,0 +1,60 @@
+{
+  "result": [
+    {
+      "product_name": "Iphone 16",
+      "product_price": 500,
+      "released_date": "Thu, 07 Sep 2023 12:30:00 GMT"
+    },
+    {
+      "product_name": "Xbox Series S",
+      "product_price": 299,
+      "released_date": "Tue, Oct 12 2021 15:00:00 GMT"
+    },
+    {
+      "product_name": "Playstation X",
+      "product_price": 450,
+      "released_date": "Mon, Nov 01 2021 22:15:00 GMT"
+    },
+    {
+      "product_name": "Nintendo Switch",
+      "product_price": 250,
+      "released_date": "Sat, Jan 01 2022 11:00:00 GMT"
+    },
+    {
+      "product_name": "Dyson Air Conditioner",
+      "product_price": 200,
+      "released_date": "Tue, Jan 01 2019 14:30:00 GMT"
+    },
+    {
+      "product_name": "Xiaomi Airfrier",
+      "product_price": 100,
+      "released_date": "Wed, Feb 15 2023 16:00:00 GMT"
+    },
+    {
+      "product_name": "Samsung S15 Ultra",
+      "product_price": 300,
+      "released_date": "Fri, Mar 10 2023 19:00:00 GMT"
+    },
+    {
+      "product_name": "Vestel 55inch Led 4k Tv",
+      "product_price": 320,
+      "released_date": "Sun, Apr 17 2022 22:00:00 GMT"
+    },
+    {
+      "product_name": "MSI Titan RTX4060 Gaming Laptop",
+      "product_price": 2000,
+      "released_date": "Sat, Jan 21 2023 12:00:00 GMT"
+    },
+    {
+      "product_name": "Dell Flow RTX3050ti Gaming Laptop",
+      "product_price": 1100,
+      "released_date": "Mon, Feb 14 2022 22:00:00 GMT"
+    },
+    {
+      "product_name": "Apple Watch 9",
+      "product_price": 700,
+      "released_date": "Wed Nov 02 2022 23:00:00 GMT"
+    }
+  ],
+  "success": true
+}
