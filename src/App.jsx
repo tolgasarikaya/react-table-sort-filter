@@ -264,7 +264,9 @@ function App() {
 
       {products.length === 0 ? (
         <tfoot>
-          <tr className="text-gray-800 ">No product to show.</tr>
+          <tr className="text-gray-800 text-center">
+            <td colSpan="3">No product to show.</td>
+          </tr>
         </tfoot>
       ) : (
         <tbody>
